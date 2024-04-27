@@ -1,4 +1,4 @@
-<h1 align="center">PRANSHU PATHAK</h1>
+<h1 align="center">✗🥊ᬼ M͜͡𝗣𞤞 ϟ 𝑺𝑯𞋙𝑹𝑲⃟⃝〽™</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sincryptshark&label=Profile%20views&color=0e75b6&style=flat" alt="sincryptshark" /> </p>
